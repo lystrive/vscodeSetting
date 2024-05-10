@@ -9,7 +9,7 @@
   "editor.minimap.enabled": false,
   "window.autoDetectColorScheme": true,
   "workbench.colorTheme": "GitHub Dark Default",
-  "workbench.editor.tabActionLocation": "left",
+  "workbench.editor.tabActionLocation": "right",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "Vitesse Dark",
